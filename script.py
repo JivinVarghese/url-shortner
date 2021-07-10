@@ -2,6 +2,7 @@ import os
 
 links={
     "resume":"https://drive.google.com/file/d/1PFNn1DiG0Mtp7_XdDuHxldcxFdPjn0eF/view?usp=sharing",
+    "github":"https://github.com/JivinVarghese",
 
 }
 
