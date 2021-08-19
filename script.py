@@ -1,7 +1,7 @@
 import os
 
 links={
-    "resume":"https://drive.google.com/file/d/1zInm217V1OlnQ2KlPPqdJtRLbalv1Zas/view?usp=sharing",
+    "resume":"https://drive.google.com/file/d/17kRCMdxtQGkthSA13WqD80TYCajA7tw3/view?usp=sharing",
     "github":"https://github.com/JivinVarghese",
     "marksheets":"https://drive.google.com/file/d/1n4O9l5DsgczCjBG-DpYJ8Qy-IP4MP8M2/view?usp=sharing",
     "aadhaarpanbirth":"https://drive.google.com/file/d/1Dqgt8rCwyLY3_NcR3rbxrZ76-fiG9pB6/view?usp=sharing",
